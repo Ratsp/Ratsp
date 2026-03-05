@@ -2,8 +2,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4,DB7093,C71585&height=200&section=header&text=Ratnali%20Pawar&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-<h1 align="center">Ratnali Pawar</h1>
-
 <h3 align="center">
 Machine Learning Engineer | Data Analyst | Deep Learning | Agentic AI
 </h3>
@@ -20,7 +18,7 @@ Machine Learning Engineer | Data Analyst | Deep Learning | Agentic AI
 - Research interest in **Deep Learning and Intelligent Systems**
 - Active **Kaggle competitor** working on real-world machine learning problems
 - Building scalable **Machine Learning and Agentic AI architectures**
-- Open-source contributor developing intelligent automation systems
+- Open-source contributor at **Aden** developing intelligent automation systems
 
 ---
 
@@ -87,16 +85,13 @@ Machine Learning Engineer | Data Analyst | Deep Learning | Agentic AI
 ## GitHub Analytics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical"/>
-
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ratsp&show_icons=true&theme=radical"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Ratsp&theme=radical"/>
 </p>
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ratsp&layout=compact&theme=radical"/>
 
 </p>
 
