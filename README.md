@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center">
-Machine Learning Engineer | Data Analyst | Deep Learning | Agentic AI
+Machine Learning Engineer | Data Analyst | Deep Learning | Agentic AI | Business Intelligence
 </h3>
 
 <p align="center">
@@ -136,9 +136,7 @@ ratnali.pawar007@gmail.com
 
 ---
 
-<h3 align="center">
-Building Intelligent Systems that Think, Reason and Learn
-</h3>
+<h3 align="center"> Building Intelligent Systems that Think, Reason and Learn </h3>
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4,DB7093,C71585&height=120&section=footer"/>
