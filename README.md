@@ -135,7 +135,6 @@ Email
 ratnali.pawar007@gmail.com
 
 ---
-
 <h3 align="center"> Building Intelligent Systems that Think, Reason and Learn </h3>
 
 <p align="center">
