@@ -14,11 +14,11 @@ Machine Learning Engineer | Data Analyst | Deep Learning | Agentic AI | Business
 
 ## About Me
 
-- B.Tech student focused on **Artificial Intelligence and Data Science**
-- Research interest in **Deep Learning and Intelligent Systems**
-- Active **Kaggle competitor** working on real-world machine learning problems
-- Building scalable **Machine Learning and Agentic AI architectures**
-- Open-source contributor at **Aden** developing intelligent automation systems
+- B.Tech student specializing in **Artificial Intelligence and Data Science**
+- Passionate about **Deep Learning, Intelligent Systems, and AI Research**
+- Active **Kaggle competitor** solving real-world machine learning challenges
+- Building scalable **Machine Learning and Agentic AI systems**
+- Open-source contributor at **Aden**, developing intelligent automation solutions
 
 ---
 
@@ -28,7 +28,7 @@ Machine Learning Engineer | Data Analyst | Deep Learning | Agentic AI | Business
 
 **Project:** Corporate Intelligence Agent
 
-**Tech Stack**
+### Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-ff69b4?style=for-the-badge&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-db7093?style=for-the-badge)
@@ -36,12 +36,12 @@ Machine Learning Engineer | Data Analyst | Deep Learning | Agentic AI | Business
 ![Agentic AI](https://img.shields.io/badge/Agentic_AI-ff1493?style=for-the-badge)
 ![MCP](https://img.shields.io/badge/MCP_Server-ff69b4?style=for-the-badge)
 
-**Work Includes**
+### Contributions
 
-- Designing multi-agent workflows  
-- Building reasoning-based decision pipelines  
-- Tool integration using MCP protocol  
-- Optimizing enterprise intelligence systems  
+- Designing multi-agent workflows
+- Building reasoning-driven decision pipelines
+- Integrating tools using the MCP protocol
+- Optimizing enterprise intelligence systems
 
 ---
 
@@ -49,9 +49,9 @@ Machine Learning Engineer | Data Analyst | Deep Learning | Agentic AI | Business
 
 **Domain:** Synthetic Aperture Radar Imaging  
 **Model:** Siamese Convolutional Neural Network  
-**Dataset:** SAR Imaging Change Detection
+**Dataset:** SAR Image Change Detection
 
-**Tools**
+### Tools
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-ff1493?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-db7093?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -90,52 +90,51 @@ Machine Learning Engineer | Data Analyst | Deep Learning | Agentic AI | Business
 </p>
 
 <p align="center">
-
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ratsp&layout=compact&theme=radical"/>
-
 </p>
 
 ---
 
 ## Kaggle and Machine Learning Journey
 
-- Titanic Survival Prediction  
-- Heart Disease Prediction  
-- Student Exam Score Prediction  
-- March Machine Learning Mania 2026  
-- Ongoing work on computer vision and tabular competitions
+- Titanic Survival Prediction
+- Heart Disease Prediction
+- Student Exam Score Prediction
+- March Machine Learning Mania 2026
+- Ongoing work in computer vision and tabular machine learning competitions
 
 ---
 
 ## Current Learning Focus
 
-- Advanced Agentic AI Architectures  
-- LangChain and LangGraph orchestration  
-- MCP protocol integration  
-- Retrieval-Augmented Generation systems  
-- Scalable AI deployment pipelines  
+- Advanced Agentic AI Architectures
+- LangChain and LangGraph Orchestration
+- MCP Protocol Integration
+- Retrieval-Augmented Generation (RAG) Systems
+- Scalable AI Deployment Pipelines
 
 ---
 
 ## Career Vision
 
-To become an **AI Research Engineer** developing advanced multi-agent systems and deep learning architectures capable of solving complex real-world problems at scale.
+To become an **AI Research Engineer**, developing advanced multi-agent systems and deep learning architectures capable of solving complex real-world problems at scale.
 
 ---
 
 ## Connect With Me
 
-LinkedIn  
-https://www.linkedin.com/in/ratnali-anil-pawar-803904235/
+**LinkedIn**  
+www.linkedin.com/in/ratnali-anil-pawar-803904235
 
-Kaggle  
+**Kaggle**  
 https://www.kaggle.com/syanratnalianilpawar
 
-Email  
+**Email**  
 ratnali.pawar007@gmail.com
 
 ---
-<h3 align="center"> Building Intelligent Systems that Think, Reason and Learn </h3>
+
+<h3 align="center">Building Intelligent Systems that Think, Reason, and Learn</h3>
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4,DB7093,C71585&height=120&section=footer"/>
